@@ -5,7 +5,7 @@ Data-driven analysis of wine quality using Python, Power BI, and Excel.
 ---
 
 ## Project Overview
-This project analyzes red wine quality data to identify the chemical and physical properties that most influence wine ratings. The analysis combines Python, Power BI, and Excel for a full data-driven approach.
+This project examines red wine quality data to identify chemical and physical properties that most influence quality ratings. Python, Power BI, and Excel are combined for a full data-driven approach.
 
 ---
 
@@ -18,16 +18,16 @@ This project analyzes red wine quality data to identify the chemical and physica
 
 ## Dataset
 - [Raw Data](data/WineQT.csv) – original dataset from UCI Machine Learning Repository  
-- [Cleaned Data](data/cleaned_WineQT.csv) – cleaned and preprocessed dataset  
-- [Analysis-ready Excel](data/cleaned_WineQT%20-%20Analyze.xlsx) – prepared for Power BI/Excel visualization
+- [Cleaned Data](data/cleaned_WineQT.csv) – preprocessed for analysis  
+- [Analysis-ready Excel](data/cleaned_WineQT - Analyze.xlsx) – for Power BI/Excel visualization
 
 ---
 
 ## Tools & Technologies
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Jupyter Notebook**: Python EDA and modeling  
-- **Power BI**: Interactive dashboards and visualizations  
-- **Microsoft Excel**: Additional analysis and views  
+- **Jupyter Notebook**: EDA and modeling  
+- **Power BI**: Interactive dashboards  
+- **Microsoft Excel**: Additional analysis and visualizations
 
 ---
 
@@ -43,7 +43,7 @@ This project analyzes red wine quality data to identify the chemical and physica
 - Alcohol content shows a strong positive correlation with wine quality.  
 - Volatile acidity negatively impacts quality ratings.  
 - High-quality wines tend to have a balanced ratio of acidity and alcohol.  
-- Random Forest achieved the best predictive performance (highest R² score).  
+- Random Forest achieved the best predictive performance (highest R² score).
 
 ---
 
@@ -60,25 +60,27 @@ This project analyzes red wine quality data to identify the chemical and physica
 - Correlation analysis  
 - Interactive filters and slicers  
 
-![Example Dashboard](media/Screenshot%202025-04-08%20143904b.jpg)
+![Example Dashboard](media/Screenshot 2025-04-08 143904b.jpg)
 
 ---
 
 ## Repository Structure
+- `data/` – raw and cleaned datasets  
+- `notebooks/` – Python analysis (Jupyter Notebooks)  
+- `media/` – Power BI screenshots, Excel views  
+- `presentation/` – project PDF/PowerPoint  
+- `README.md` – project documentation
 
 ---
 
 ## Project Presentation
-Full project presentation including Python analysis, Power BI dashboards, and Excel views:
-
 [📥 Download Presentation PDF](presentation/Finale-Ahmadi.pdf)
 
 ---
 
 ## Author
 **Seyed Mohammad Hossein Ahmadi**  
-Frankfurt am Main, Germany  
+Frankfurt am Main, Germany
 
 ---
-
 *Data Analysis Project | Certified Data Analyst Capstone | 2025*
