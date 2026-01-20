@@ -60,7 +60,7 @@ This project analyzes red wine quality data to identify the chemical and physica
 - Correlation analysis  
 - Interactive filters and slicers  
 
-[Example Dashboard](media/Screenshot 2025-04-08 143904b.jpg)
+![Example Dashboard](media/Screenshot%202025-04-08%20143904b.jpg)
 
 ---
 
