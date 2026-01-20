@@ -19,7 +19,7 @@ This project analyzes red wine quality data to identify the chemical and physica
 ## Dataset
 - [Raw Data](data/WineQT.csv) – original dataset from UCI Machine Learning Repository  
 - [Cleaned Data](data/cleaned_WineQT.csv) – cleaned and preprocessed dataset  
-- [Analysis-ready Excel](data/cleaned_WineQT - Analyze.xlsx) – prepared for Power BI/Excel visualization
+- [Analysis-ready Excel](data/cleaned_WineQT%20-%20Analyze.xlsx) – prepared for Power BI/Excel visualization
 
 ---
 
@@ -65,10 +65,6 @@ This project analyzes red wine quality data to identify the chemical and physica
 ---
 
 ## Repository Structure
-- `data/` – raw and cleaned datasets  
-- `notebooks/` – Python analysis (Jupyter Notebook)  
-- `media/` – Power BI dashboards, Excel analysis screenshots  
-- `presentation/` – final project presentation (PDF/PowerPoint)
 
 ---
 
