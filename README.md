@@ -61,7 +61,6 @@ This project examines red wine quality data to identify chemical and physical pr
 - Interactive filters and slicers  
 
 ![Example Dashboard](media/Screenshot_2025-04-08_143904b.jpg)
-
 ---
 
 ## Repository Structure
