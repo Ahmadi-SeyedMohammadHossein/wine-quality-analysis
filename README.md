@@ -113,8 +113,7 @@ wine-quality-analysis/
 
 ## 📊 Dashboard Preview
 
-![Wine Quality Analysis Dashboard](./media/dashboard_preview.png)
-
+![Wine Quality Analysis Dashboard](./media/Screenshot%202025-04-08%20143904b.jpg)
 **Power BI Dashboard includes:**
 - Average alcohol content by quality level (bar chart)
 - Quality vs. alcohol vs. density (scatter plot)
